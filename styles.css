@@ -1,1 +1,25 @@
-/*  your css code here. If applicable */
+html {
+    width: 1100px;
+}
+
+table {
+    width: 1000px;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.img {
+    width: 200px;
+    background-color: black;
+}
+
+.img img {
+    width: 100%;
+    height: auto;
+}
+
+.middle {
+    width: 600px;
+    padding: 10px;
+    text-align: justify;
+}
